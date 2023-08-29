@@ -167,7 +167,20 @@
 .instaImgs {
     display: flex;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
 
     gap: 25px;
+}
+
+.latestDeals {
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    height: 400px;
+    text-align: center;
+    padding-top: 170px;
+}
+
+#email {
+    width: 600px;
+    height: 30px;
 }
