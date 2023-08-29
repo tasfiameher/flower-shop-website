@@ -2,6 +2,8 @@
     margin: 0px;
 }
 
+/* header related styles */
+
 .header {
     margin: 0;
     display: flex;
@@ -46,6 +48,8 @@
     background: #E55473;
 
 }
+
+/* featuredFlowers styles */
 
 .secondSectionImg {
     display: flex;
@@ -121,9 +125,36 @@
     height: 400px;
 }
 
-/* .firstfeaturedImg {
-    position: absolute;
-    bottom: 0;
-    width: 250px;
-    height: 300px;
-} */
+.hotdealLeft {
+    text-align: center;
+}
+
+.hotdealSec {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.hotdealHeading {
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.off {
+    color: #E55473;
+
+    font-size: 30px;
+
+    font-weight: 800;
+}
+
+.pngwing8 {
+    margin-top: 30px;
+    width: 240px;
+    height: 360px;
+}
