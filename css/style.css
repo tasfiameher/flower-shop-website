@@ -188,7 +188,8 @@ body {
 }
 
 .latestDeals {
-    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    background-image:
+        url('../flowerAsset/Rectangle\ 9.png');
     background-repeat: no-repeat;
     height: 350px;
     text-align: center;
