@@ -147,7 +147,7 @@ body {
 
 .hotdealHeading {
     font-size: 30px;
-    font-weight: 800;
+    font-weight: 700;
     margin-bottom: 10px;
 }
 
@@ -229,4 +229,12 @@ footer {
 
 .span {
     font-size: 13px;
+}
+
+/* uniques section */
+.flowergarden {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 70px;
 }
