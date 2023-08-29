@@ -79,7 +79,7 @@ body {
 
 .featuredDescription {
     margin-bottom: 20px;
-    color: rgba(39, 39, 39, 0.60);
+    color: rgba(39, 39, 39, 0.753);
     text-align: center;
     font-family: Lato;
     font-size: 18px;
@@ -165,12 +165,12 @@ body {
     height: 360px;
 }
 
-.instaHeading {
+.trendingHeading {
     margin-top: 30px;
     text-align: center;
 }
 
-.instaImgs {
+.trendingImgs {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
